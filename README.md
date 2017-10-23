@@ -11,6 +11,8 @@ Opportunities for Greek Computer Science students for fully or semi funded inter
 
 ## Hackathons
 
+## Summer Programmes
+
 ## Scholarships
 
 ## Master Programmes with full scholarships
