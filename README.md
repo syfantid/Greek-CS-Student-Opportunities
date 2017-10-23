@@ -3,6 +3,8 @@ Opportunities for Greek Computer Science students for fully or semi funded inter
 
 ## Paid Interships
 
+## Graduate Positions
+
 ## Travel Grants
 
 ## Conferences
