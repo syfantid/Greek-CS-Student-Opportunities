@@ -79,6 +79,7 @@ Note than full scholarships may cover accomondation, board, living expenses, tra
 <table style="width:100%">
   <tr>
     <th>Title</th>
+	<th>Scholarship Sponsor</th>
     <th>Applications Open</th>
     <th>Applications Close</th>
     <th>Level</th>
@@ -88,21 +89,13 @@ Note than full scholarships may cover accomondation, board, living expenses, tra
   </tr>
   <tr>
     <td>Grace Hopper Celebration of Women in Computing</td>
-    <td>End Jan</td>
+	<td>Anita Borg Institute</td>    
+	<td>End Jan</td>
     <td>Beg Mar</td>
     <td>BSc, MSc, PhD</td>
     <td>Maintain student status at the time of the conference</td>
     <td>Full</td>
     <td><a href="https://ghc.anitab.org/2017-student-academic/students/">https://ghc.anitab.org/2017-student-academic/students/</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td></td>
@@ -131,6 +124,17 @@ Note than full scholarships may cover accomondation, board, living expenses, tra
     <th>Benefits</th>
     <th>Link</th>
   </tr>
+<tr>
+    <td>Student Summer Research Fellowship</td>
+    <td>ETH Zurich</td>
+    <td>Reserach (Various)</td>
+    <td>Internship</td>
+    <td>Beg Nov</td>
+    <td>End Dec</td>
+    <td>BSc, MSc</td>
+    <td></td>
+    <td></td>
+  </tr>
   <tr>
     <td>Summer@EPFL</td>
     <td>École polytechnique fédérale de Lausanne</td>
@@ -143,20 +147,41 @@ Note than full scholarships may cover accomondation, board, living expenses, tra
     <td>Full</td>
     <td><a href="https://ic.epfl.ch/computer-science/summer-at-epfl">https://ic.epfl.ch/computer-science/summer-at-epfl</a></td>
   </tr>
-  <tr>
-    <td>Student Summer Research Fellowship</td>
-    <td>ETH Zurich</td>
-    <td>Reserach (Various)</td>
-    <td>Internship</td>
-    <td>Beg Nov</td>
-    <td>End Dec</td>
-    <td>BSc, MSc</td>
-    <td></td>
-    <td></td>
-  </tr>
 </table> 
 
 ## Scholarships
+<table style="width:100%">
+  <tr>
+    <th>Title</th>
+	<th>Scholarship Sponsor</th>
+    <th>Applications Open</th>
+    <th>Applications Close</th>
+    <th>Level</th>
+    <th>Specific Criteria</th>
+    <th>Scholarship Type</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Google European Conference Travel Grant</td>
+	<td>Google</td>
+    <td>All year round</td>
+    <td>All year round</td>
+	<td>All</td>
+    <td>Identify as female</td>
+    <td>Full</td>
+    <td><a href="https://edu.google.com/scholarships/google-travel-and-conference-grants/#!europe">https://edu.google.com/scholarships/google-travel-and-conference-grants/#!europe</a></td>
+  </tr>
+  <tr>
+    <td>Google Women Techmakers Scholarship</td>
+	<td>Google</td>
+    <td>Mid Oct</td>
+    <td>Beg Dec</td>
+    <td>BSc, MSc, PhD</td>
+    <td><ol><li>Identify as female</li><li>Maintain student status next academic year</li></ol></td>
+    <td><ol><li>Monetary Award</li><li>Google Summer Retreat</li></ol></td>
+    <td><a href="https://www.womentechmakers.com/scholars">https://www.womentechmakers.com/scholars</a></td>
+  </tr>
+</table> 
 
 ## Master Programmes with full scholarships
 <table style="width:100%">
