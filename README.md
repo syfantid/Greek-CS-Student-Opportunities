@@ -48,18 +48,16 @@ Note than full scholarships may cover accomondation, board, living expenses, tra
     <th>Applications Close</th>
     <th>Level</th>
     <th>Specific Criteria</th>
-    <th>Benefits</th>
     <th>Link</th>
   </tr>
   <tr>
+    <td>Graduate Software Engineer</td>
+    <td>Booking.com</td>
+    <td>All year round</td>
+    <td>All year round</td>
+    <td>BSc, MSc</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://workingatbooking.com/department/high-potential/">https://workingatbooking.com/department/high-potential/</a></td>
   </tr>
   <tr>
     <td></td>
@@ -74,6 +72,28 @@ Note than full scholarships may cover accomondation, board, living expenses, tra
 </table> 
 
 ## Travel Grants
+<table style="width:100%">
+  <tr>
+    <th>Title</th>
+	<th>Grant Sponsor</th>
+    <th>Applications Open</th>
+    <th>Applications Close</th>
+    <th>Level</th>
+    <th>Specific Criteria</th>
+    <th>Grant Type</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Google European Conference Travel Grant</td>
+	<td>Google</td>
+    <td>All year round</td>
+    <td>All year round</td>
+	<td>All</td>
+    <td>Identify as female</td>
+    <td>Full</td>
+    <td><a href="https://edu.google.com/scholarships/google-travel-and-conference-grants/#!europe">https://edu.google.com/scholarships/google-travel-and-conference-grants/#!europe</a></td>
+  </tr>
+</table> 
 
 ## Conferences
 <table style="width:100%">
@@ -162,16 +182,6 @@ Note than full scholarships may cover accomondation, board, living expenses, tra
     <th>Link</th>
   </tr>
   <tr>
-    <td>Google European Conference Travel Grant</td>
-	<td>Google</td>
-    <td>All year round</td>
-    <td>All year round</td>
-	<td>All</td>
-    <td>Identify as female</td>
-    <td>Full</td>
-    <td><a href="https://edu.google.com/scholarships/google-travel-and-conference-grants/#!europe">https://edu.google.com/scholarships/google-travel-and-conference-grants/#!europe</a></td>
-  </tr>
-  <tr>
     <td>Google Women Techmakers Scholarship</td>
 	<td>Google</td>
     <td>Mid Oct</td>
@@ -206,14 +216,14 @@ Note than full scholarships may cover accomondation, board, living expenses, tra
     <td><a href="http://bdma.univ-tours.fr/bdma/">http://bdma.univ-tours.fr/bdma/</a></td>
   </tr>
   <tr>
+    <td>EIT Digital Master School</td>
+    <td>20 European Universities</td>
+    <td><ol><li>Cloud Computing and Services</li><li>Data Science</li><li>Digital Media Technology</li><li>Embedded Systems</li><li>Human Computer Interaction and Design</li><li>Internet Technology and Architecture</li><li>Security and Privacy</li></ol></td>
+    <td>End Nov</td>
+    <td>Mid Apr</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Full or Partial</td>
+    <td><a href="https://masterschool.eitdigital.eu/">https://masterschool.eitdigital.eu/</a></td>
   </tr>
 </table> 
 
