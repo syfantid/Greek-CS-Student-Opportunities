@@ -23,13 +23,13 @@
     <td><a href="https://jobs.web.cern.ch/join-us/technical-student-programme">https://jobs.web.cern.ch/join-us/technical-student-programme</a></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Vulcanus in Japan</td>
+    <td>Various</td>
+    <td>Beg Nov</td>
+    <td>End Jan</td>
+    <td>BSc, MSc</td>
+    <td><ol><li>Citizen of an EU Member-State or a COSME* partening country</li><li>Between the 4th official year of studies and the penultimate year of PhD</li></ol></td>
+    <td>Full</td>
+    <td><a href="http://www.eu-japan.eu/events/vulcanus-japan">http://www.eu-japan.eu/events/vulcanus-japan</a></td>
   </tr>
 </table> 
