@@ -8,7 +8,6 @@
     <th>Applications Open</th>
     <th>Applications Close</th>
     <th>Level</th>
-    <th>Specific Criteria</th>
     <th>Link</th>
   </tr>
   <tr>
@@ -17,17 +16,14 @@
     <td>All year round</td>
     <td>All year round</td>
     <td>BSc, MSc</td>
-    <td></td>
     <td><a href="https://workingatbooking.com/department/high-potential/">https://workingatbooking.com/department/high-potential/</a></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Google AI Resident</td>
+    <td>Google</td>
+    <td>End Oct</td>
+    <td>Beg Jan</td>
+    <td>BSc, MSc, PhD</td>
+    <td><a href="https://careers.google.com/jobs#!t=jo&jid=/google/google-ai-resident-2018-start-fixed-term-1600-amphitheatre-pkwy-mountain-view-ca-2923890093">https://careers.google.com/jobs#!t=jo&jid=/google/google-ai-resident-2018-start-fixed-term-1600-amphitheatre-pkwy-mountain-view-ca-2923890093</a></td>
   </tr>
 </table> 
