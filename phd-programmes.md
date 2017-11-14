@@ -13,13 +13,13 @@
     <th>Link</th>
   </tr>
   <tr>
+    <td>Post-doc and PhD in Machine Learning and Natural Language Processing</td>
+    <td>Instituto Superior Tecnico, University of Lisbon, Portugal</td>
+    <td>Machine Learning</td>
     <td></td>
+    <td>Dec 2017</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Full</td>
+    <td><a href="https://andre-martins.github.io/pages/jobs.html">https://andre-martins.github.io/pages/jobs.html</a></td>
   </tr>
 </table> 
