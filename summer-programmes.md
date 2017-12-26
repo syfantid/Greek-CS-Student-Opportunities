@@ -37,4 +37,16 @@
     <td>Full</td>
     <td><a href="https://ic.epfl.ch/computer-science/summer-at-epfl">https://ic.epfl.ch/computer-science/summer-at-epfl</a></td>
   </tr>
+ <tr>
+    <td>Data Science for Social Good Summer Fellowship</td>
+    <td>The University of Chicago</td>
+    <td>Data Science</td>
+    <td>Fellowship</td>
+    <td>Mid Dec</td>
+    <td>End Jan</td>
+    <td>All</td>
+    <td></td>
+    <td>Full</td>
+    <td><a href="https://dssg.uchicago.edu/">https://dssg.uchicago.edu/</a></td>
+  </tr>
 </table> 
