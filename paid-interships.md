@@ -35,8 +35,9 @@
   <tr>
     <td>Summer World Bank Internship</td>
     <td>The World Bank Group</td>
-    <td><li>Summer Internship  December 1</li>        <li> Winter Internship October 1</li></td>
-    <td><li>Summer Internship January 31</li>   <li>Winter Internship October 31</li></td>
+    <td><ul><li>Summer Internship  December 1</li>        
+      <li> Winter Internship October 1</li></ul></td>
+    <td><ul><li>Summer Internship January 31</li>   <li>Winter Internship October 31</li></ul></td>
     <td>MSc,PhD</td>
     <td>To be eligible for an Internship, candidates must have an undergraduate degree and be enrolled in a full-time graduate study program (pursuing a Master's degree or PhD with plans to return to school full-time)</td>
     <td>(June–September) ,December–March</td>
