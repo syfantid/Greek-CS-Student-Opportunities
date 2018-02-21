@@ -49,4 +49,28 @@
     <td>Full</td>
     <td><a href="https://dssg.uchicago.edu/">https://dssg.uchicago.edu/</a></td>
   </tr>
+   <tr>
+    <td>Google Summer of Code</td>
+    <td>Google</td>
+    <td>Open Source</td>
+    <td>Full-time, Remote Internship</td>
+    <td>Mid Mar</td>
+    <td>End Mar</td>
+    <td>All</td>
+    <td></td>
+    <td>Full</td>
+    <td><a href="https://summerofcode.withgoogle.com/">https://summerofcode.withgoogle.com/</a></td>
+  </tr>
+   <tr>
+    <td>Outreachy Programme</td>
+    <td>Outreachy</td>
+    <td>Open Source</td>
+    <td>Full-time, Remote Internship</td>
+    <td>Beg Feb or Beg Sept</td>
+    <td>End Mar or End Oct</td>
+    <td>All</td>
+    <td>Identify as a woman (cis or trans), trans man, or genderqueer person (including genderfluid or genderfree).</td>
+    <td>$5,500 stipend & $500 travel expenses</td>
+    <td><a href="https://www.outreachy.org/">https://www.outreachy.org/</a></td>
+  </tr>
 </table> 
