@@ -22,6 +22,16 @@
     <td><ol><li>Monetary Award</li><li>Google Summer Retreat</li></ol></td>
     <td><a href="https://www.womentechmakers.com/scholars">https://www.womentechmakers.com/scholars</a></td>
   </tr>
+<tr>
+    <td>Facebook GHC Scholarship</td>
+	<td>Facebook</td>
+    <td>Beg Jun</td>
+    <td>End Jun</td>
+    <td>BSc, MSc, PhD</td>
+    <td><ol><li>Identify as female</li><li>Maintain student status current academic year</li></ol></td>
+    <td><ol><li>Paid registration for the Grace Hopper Celebration</li><li>Paid travel and lodging, including a pre-Grace Hopper Celebration program in Houston that includes tech talks, mentoring sessions and networking events</li><li>An invitation to a private reception with Facebook's Engineering Team during the Grace Hopper Celebration</li><li>Additional meal stipend</li></ol></td>
+    <td><a href="https://www.facebook.com/careers/program/gracehopper2018/">https://www.facebook.com/careers/program/gracehopper2018/</a></td>
+  </tr>
 	
 <tr>
     <td>Chinese Government Scholarship – Chinese University Program</td>
