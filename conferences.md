@@ -23,13 +23,14 @@
     <td><a href="https://ghc.anitab.org/2017-student-academic/students/">https://ghc.anitab.org/2017-student-academic/students/</a></td>
   </tr>
   <tr>
+    <td>Heidelberg Laureate Forum</td>
+    <td>Heidelberg Laureate Forum Foundation </td>
+    <td>Mid Nov</td>
+    <td>Mid Feb</td>
+    <td>All</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Full - No travel costs covered</td>
+	  <td><a href="https://www.heidelberg-laureate-forum.org/">https://www.heidelberg-laureate-forum.org/</a></td>
   </tr>
 </table> 
 
