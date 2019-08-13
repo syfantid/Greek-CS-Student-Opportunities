@@ -5,7 +5,7 @@ Contribute by sending a [pull request](https://github.com/syfantid/Greek-CS-Stud
 
 Note than full scholarships may cover accommodation, board, living expenses, transportation costs and tuition/registration fees where applicable. Partial scholarships cover part of the aforementioned costs.
 
-View this in a [separate web page](https://syfantid.github.io/Greek-CS-Student-Opportunities/).
+View this in a **[separate web page](https://syfantid.github.io/Greek-CS-Student-Opportunities/)**.
 
 ## List of items
 
