@@ -16,5 +16,5 @@ View this in a [separate web page](https://syfantid.github.io/Greek-CS-Student-O
 * [Hackathons](hackathons.md)
 * [Summer Programmes](summer-programmes.md)
 * [Scholarships](scholarships.md)
-* [Master Programmes with full scholarships](master-programmes.md)
+* [Master Programmes with full/partial scholarships](master-programmes.md)
 * [PhD Programmes](phd-programmes.md)
