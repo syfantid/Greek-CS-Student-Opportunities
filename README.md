@@ -7,7 +7,7 @@ Note than full scholarships may cover accommodation, board, living expenses, tra
 
 ## List of items
 
-* [Paid Interships](paid-interships.md)
+* [Paid Internships](paid-interships.md)
 * [Graduate Positions](graduate-positions.md)
 * [Travel Grants](travel-grants.md)
 * [Conferences](conferences.md)
