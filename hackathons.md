@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td>HackZurich</td>
-    <td>Zurich</td>
+    <td>Zurich, Switzerland</td>
     <td>Mid-End September</td>
 	 <td>Free</td>
     <td>June</td>
