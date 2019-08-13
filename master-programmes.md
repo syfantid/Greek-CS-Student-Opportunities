@@ -92,6 +92,7 @@
     <td>Full</td>
     <td><a href="https://www.ihu.edu.gr/index.php/news-events/item/1246-msc-in-smart-cities-and-communities-funded-by-erasmus-key-action-1-emjmds-programme.html">https://www.ihu.edu.gr/index.php/news-events/item/1246-msc-in-smart-cities-and-communities-funded-by-erasmus-key-action-1-emjmds-programme.html</a></td>
   </tr>
+  <tr>
     <td>MSc in Geospatial Technologies</td>
     <td>Westfälische Wilhelms-Universität Münster, Universitat Jaume I, Universidade Nova de Lisboa</td>
     <td>Geoinformatics</td>
