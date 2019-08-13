@@ -28,6 +28,18 @@
     <td><a href="https://getcruiseinn.com/">https://getcruiseinn.com/</a></td>
   </tr>
   <tr>
+    <td>HackZurich</td>
+    <td>Zurich, Switzerland</td>
+    <td>Mid-End September</td>
+	 <td>Free</td>
+    <td>June</td>
+    <td>June</td>
+    <td></td>
+    <td></td>
+    <td>Reimbursement available</td>
+    <td><a href="https://digitalfestival.ch/en/HACK/">https://digitalfestival.ch/en/HACK/</a></td>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
     <td></td>
