@@ -3,7 +3,7 @@ A comprehensive list of opportunities for Greek Computer Science students for fu
 
 Contribute by sending a [pull request](https://github.com/syfantid/Greek-CS-Student-Opportunities/pulls), opening an [Issue](https://github.com/syfantid/Greek-CS-Student-Opportunities/issues) or emailing [s.yfantidou@gmail.com](mailto:s.yfantidou@gmail.com). Remember that sharing is caring (my handle is @syfantid).
 
-Note than full scholarships may cover accomondation, board, living expenses, trasportation costs and tuition/registration fees where applicable. Partial sholarships cover part of the aforementioned costs.
+Note than full scholarships may cover accommodation, board, living expenses, transportation costs and tuition/registration fees where applicable. Partial scholarships cover part of the aforementioned costs.
 
 ## List of items
 
