@@ -74,8 +74,19 @@ Applicants must not be a registered student in Chinese universities at the time 
     <td>Mid Dec</td>
     <td>End Feb</td>
     <td>MSc, PhD</td>
-    <td><ol><li>Must have a grade of at least 8/10 in undergraduate degree (and at least 8.5/10 in MSc if applying for PhD)</li></ol></td>
+    <td><ol><li>Must be under 34 years old.</li><li>Must have a grade of at least 8/10 in undergraduate degree (and at least 8.5/10 in MSc if applying for PhD)</li></ol></td>
     <td><ol><li>Monetary Award</li></ol></td>
     <td><a href="https://www.onassis.org/el/initiatives/scholarships">https://www.onassis.org/el/initiatives/scholarships</a></td>
+  </tr>
+
+  <tr>
+    <td>Bodossaki foundation Scholarships</td>
+	<td>Bodossaki Foundation</td>
+    <td>End Dec</td>
+    <td>Mid Feb</td>
+    <td>MSc, PhD, Post-doc</td>
+    <td><ol><li>Must be at most 35 years old.</li><li>Must have a grade of at least 8/10 in undergraduate degree.</li></ol></td>
+    <td><ol><li>Monetary Award</li></ol></td>
+    <td><a href="https://www.bodossaki.gr/draseis-toy-idrymatos/ypotrofies/">https://www.bodossaki.gr/draseis-toy-idrymatos/ypotrofies/</a></td>
   </tr>
 </table> 
