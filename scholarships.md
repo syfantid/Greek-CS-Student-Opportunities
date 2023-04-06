@@ -45,10 +45,8 @@ Applicants must not be a registered student in Chinese universities at the time 
 	    </li><li>Accommodation: free university dormitory or accommodation subsidy</li><li> Stipend</li></ol></td>
     <td><a href="http://isa.ustc.edu.cn/xs/disp.asp?ucode=90">http://isa.ustc.edu.cn/xs/disp.asp?ucode=90</a></td>
   </tr>
-</table> 
 
-
-<tr>
+  <tr>
     <td>A.G. Leventis Foundation Education Grants</td>
 	<td>A.G. Leventis Foundation</td>
     <td>Beg Mar</td>
@@ -58,3 +56,5 @@ Applicants must not be a registered student in Chinese universities at the time 
     <td><ol><li>Monetary Award</li></ol></td>
     <td><a href="https://www.leventisscholarships.org/">https://www.leventisscholarships.org/</a></td>
   </tr>
+</table> 
+
