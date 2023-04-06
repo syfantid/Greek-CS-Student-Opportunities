@@ -144,4 +144,15 @@ Applicants must not be a registered student in Chinese universities at the time 
     <td><ol><li>Monetary Award</li></ol></td>
     <td><a href="http://www.arnaoutisfoundation.com/Scholarship.html">http://www.arnaoutisfoundation.com/Scholarship.html</a></td>
   </tr>
+            
+  <tr>
+    <td>Lilian Voudouri Foundation Scholarship</td>
+	<td>Lilian Voudouri Foundation</td>
+    <td></td>
+    <td>End Mar</td>
+    <td>MSc</td>
+    <td><ol><li>Must be at most 25 years old</li><li>Have a grade of at least 8.5/10 in undergraduate degree</li><li>Must struggle financially</li></ol></td>
+    <td><ol><li>Monetary Award</li></ol></td>
+    <td><a href="https://lilianvoudouri.gr/chorigies-kai-ypotrofies/">https://lilianvoudouri.gr/chorigies-kai-ypotrofies/</a></td>
+  </tr>
 </table> 
