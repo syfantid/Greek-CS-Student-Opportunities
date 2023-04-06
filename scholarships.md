@@ -46,3 +46,15 @@ Applicants must not be a registered student in Chinese universities at the time 
     <td><a href="http://isa.ustc.edu.cn/xs/disp.asp?ucode=90">http://isa.ustc.edu.cn/xs/disp.asp?ucode=90</a></td>
   </tr>
 </table> 
+
+
+<tr>
+    <td>A.G. Leventis Foundation Education Grants</td>
+	<td>A.G. Leventis Foundation</td>
+    <td>Beg Mar</td>
+    <td>End Mar</td>
+    <td>MSc, PhD</td>
+    <td><ol><li>Must have completed undergraduate studies before applying</li></ol></td>
+    <td><ol><li>Monetary Award</li></ol></td>
+    <td><a href="https://www.leventisscholarships.org/">https://www.leventisscholarships.org/</a></td>
+  </tr>
