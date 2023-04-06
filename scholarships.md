@@ -47,7 +47,7 @@ Applicants must not be a registered student in Chinese universities at the time 
   </tr>
 
   <tr>
-    <td>A.G. Leventis Foundation Education Grants</td>
+    <td>A.G. Leventis Foundation Educational Grants</td>
 	<td>A.G. Leventis Foundation</td>
     <td>Beg Mar</td>
     <td>End Mar</td>
@@ -56,5 +56,15 @@ Applicants must not be a registered student in Chinese universities at the time 
     <td><ol><li>Monetary Award</li></ol></td>
     <td><a href="https://www.leventisscholarships.org/">https://www.leventisscholarships.org/</a></td>
   </tr>
-</table> 
 
+  <tr>
+    <td>Foundation for Education and European Culture Scholarships</td>
+	<td>Foundation for Education and European Culture</td>
+    <td>End Mar</td>
+    <td>Mid Apr</td>
+    <td>MSc, PhD, Post-doc</td>
+    <td><ol><li>Must have a grade of at least 8/10 in undergraduate degree</li></ol></td>
+    <td><ol><li>Monetary Award</li></ol></td>
+    <td><a href="https://www.ipep-gr.org/?/179">https://www.ipep-gr.org/?/179</a></td>
+  </tr>
+</table> 
