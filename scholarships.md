@@ -89,4 +89,15 @@ Applicants must not be a registered student in Chinese universities at the time 
     <td><ol><li>Monetary Award</li></ol></td>
     <td><a href="https://www.bodossaki.gr/draseis-toy-idrymatos/ypotrofies/">https://www.bodossaki.gr/draseis-toy-idrymatos/ypotrofies/</a></td>
   </tr>
+  
+  <tr>
+    <td>Syn-enosis Scholarships</td>
+	<td>Syn-enosis</td>
+    <td>End Jan</td>
+    <td>Mid Apr</td>
+    <td>MSc</td>
+    <td><ol><li>Must be under 35 years old.</li><li>Must have a grade of at least 8/10 in undergraduate degree.</li></ol></td>
+    <td><ol><li>Monetary Award</li></ol></td>
+    <td><a href="https://www.syn-enosis.gr/gr/scholarships//">https://www.syn-enosis.gr/gr/scholarships/</a></td>
+  </tr>
 </table> 
