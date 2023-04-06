@@ -74,7 +74,7 @@ Applicants must not be a registered student in Chinese universities at the time 
     <td>Mid Dec</td>
     <td>End Feb</td>
     <td>MSc, PhD</td>
-    <td><ol><li>Must be under 34 years old.</li><li>Must have a grade of at least 8/10 in undergraduate degree (and at least 8.5/10 in MSc if applying for PhD)</li></ol></td>
+    <td><ol><li>Must be under 34 years old</li><li>Must have a grade of at least 8/10 in undergraduate degree (and at least 8.5/10 in MSc if applying for PhD)</li></ol></td>
     <td><ol><li>Monetary Award</li></ol></td>
     <td><a href="https://www.onassis.org/el/initiatives/scholarships">https://www.onassis.org/el/initiatives/scholarships</a></td>
   </tr>
@@ -85,7 +85,7 @@ Applicants must not be a registered student in Chinese universities at the time 
     <td>End Dec</td>
     <td>Mid Feb</td>
     <td>MSc, PhD, Post-doc</td>
-    <td><ol><li>Must be at most 35 years old.</li><li>Must have a grade of at least 8/10 in undergraduate degree.</li></ol></td>
+    <td><ol><li>Must be at most 35 years old</li><li>Must have a grade of at least 8/10 in undergraduate degree</li></ol></td>
     <td><ol><li>Monetary Award</li></ol></td>
     <td><a href="https://www.bodossaki.gr/draseis-toy-idrymatos/ypotrofies/">https://www.bodossaki.gr/draseis-toy-idrymatos/ypotrofies/</a></td>
   </tr>
@@ -96,7 +96,7 @@ Applicants must not be a registered student in Chinese universities at the time 
     <td>End Jan</td>
     <td>Mid Apr</td>
     <td>MSc</td>
-    <td><ol><li>Must be under 35 years old.</li><li>Must have a grade of at least 8/10 in undergraduate degree.</li></ol></td>
+    <td><ol><li>Must be under 35 years old</li><li>Must have a grade of at least 8/10 in undergraduate degree</li></ol></td>
     <td><ol><li>Monetary Award</li></ol></td>
     <td><a href="https://www.syn-enosis.gr/gr/scholarships/">https://www.syn-enosis.gr/gr/scholarships/</a></td>
   </tr>
@@ -107,8 +107,19 @@ Applicants must not be a registered student in Chinese universities at the time 
     <td>End Dec</td>
     <td>End Feb</td>
     <td>MSc</td>
-    <td><ol><li>Must have a grade of at least 8/10 in undergraduate degree.</li></ol></td>
+    <td><ol><li>Must have a grade of at least 8/10 in undergraduate degree</li></ol></td>
     <td><ol><li>Monetary Award</li></ol></td>
     <td><a href="https://www.latsis-foundation.org/ell/scholarships">https://www.latsis-foundation.org/ell/scholarships</a></td>
+  </tr>
+      
+  <tr>
+    <td>Palantir Women in Technology</td>
+	<td>Palantir</td>
+    <td></td>
+    <td>Mid May</td>
+    <td>BSc, MSc</td>
+    <td><ol><li>Identify as female</li><li>Maintain student status current and following academic year</li></ol></td>
+    <td><ol><li>Monetary Award</li><li>Invitation to participate in professional development workshops</li></ol></td>
+    <td><a href="https://www.palantir.com/careers/students/scholarship/wit-global/">https://www.palantir.com/careers/students/scholarship/wit-global/</a></td>
   </tr>
 </table> 
