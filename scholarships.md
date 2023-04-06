@@ -133,4 +133,15 @@ Applicants must not be a registered student in Chinese universities at the time 
     <td><ol><li>Monetary Award</li></ol></td>
     <td><a href="https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-emea">https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-emea</a></td>
   </tr>
+          
+  <tr>
+    <td>Arnaoutis Foundation Scholarship</td>
+	<td>General Michael Arnaoutis Foundation</td>
+    <td></td>
+    <td>Beg Mar</td>
+    <td>MSc, PhD</td>
+    <td><ol><li>Must be at most 30 years old</li></ol></td>
+    <td><ol><li>Monetary Award</li></ol></td>
+    <td><a href="http://www.arnaoutisfoundation.com/Scholarship.html">http://www.arnaoutisfoundation.com/Scholarship.html</a></td>
+  </tr>
 </table> 
