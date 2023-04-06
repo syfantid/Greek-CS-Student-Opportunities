@@ -67,4 +67,15 @@ Applicants must not be a registered student in Chinese universities at the time 
     <td><ol><li>Monetary Award</li></ol></td>
     <td><a href="https://www.ipep-gr.org/?/179">https://www.ipep-gr.org/?/179</a></td>
   </tr>
+
+  <tr>
+    <td>Onassis Foundation Scholarships</td>
+	<td>Onassis Foundation</td>
+    <td>Mid Dec</td>
+    <td>End Feb</td>
+    <td>MSc, PhD</td>
+    <td><ol><li>Must have a grade of at least 8/10 in undergraduate degree (and at least 8.5/10 in MSc if applying for PhD)</li></ol></td>
+    <td><ol><li>Monetary Award</li></ol></td>
+    <td><a href="https://www.onassis.org/el/initiatives/scholarships">https://www.onassis.org/el/initiatives/scholarships</a></td>
+  </tr>
 </table> 
