@@ -98,6 +98,17 @@ Applicants must not be a registered student in Chinese universities at the time 
     <td>MSc</td>
     <td><ol><li>Must be under 35 years old.</li><li>Must have a grade of at least 8/10 in undergraduate degree.</li></ol></td>
     <td><ol><li>Monetary Award</li></ol></td>
-    <td><a href="https://www.syn-enosis.gr/gr/scholarships//">https://www.syn-enosis.gr/gr/scholarships/</a></td>
+    <td><a href="https://www.syn-enosis.gr/gr/scholarships/">https://www.syn-enosis.gr/gr/scholarships/</a></td>
+  </tr>
+    
+  <tr>
+    <td>Latsis foundation Scholarships</td>
+	<td>Latsis foundation</td>
+    <td>End Dec</td>
+    <td>End Feb</td>
+    <td>MSc</td>
+    <td><ol><li>Must have a grade of at least 8/10 in undergraduate degree.</li></ol></td>
+    <td><ol><li>Monetary Award</li></ol></td>
+    <td><a href="https://www.latsis-foundation.org/ell/scholarships">https://www.latsis-foundation.org/ell/scholarships</a></td>
   </tr>
 </table> 
