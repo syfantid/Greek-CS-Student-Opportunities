@@ -122,4 +122,15 @@ Applicants must not be a registered student in Chinese universities at the time 
     <td><ol><li>Monetary Award</li><li>Invitation to participate in professional development workshops</li></ol></td>
     <td><a href="https://www.palantir.com/careers/students/scholarship/wit-global/">https://www.palantir.com/careers/students/scholarship/wit-global/</a></td>
   </tr>
+        
+  <tr>
+    <td>Generation Google Scholarship</td>
+	<td>Google</td>
+    <td>Beg Apr</td>
+    <td>Mid May</td>
+    <td>BSc</td>
+    <td><ol><li>Maintain student status current and following academic year</li></ol></td>
+    <td><ol><li>Monetary Award</li></ol></td>
+    <td><a href="https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-emea">https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-emea</a></td>
+  </tr>
 </table> 
